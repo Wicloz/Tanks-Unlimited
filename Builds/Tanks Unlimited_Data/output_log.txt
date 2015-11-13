@@ -1,0 +1,191 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R5 M200 Series (ID=0x6664)
+    Vendor:   ATI
+    VRAM:     1012 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.272 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\Projects\Tanks II\Builds\Tanks Unlimited_Data\Managed\System.Xml.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at ProfileManager.CalculatePlayerTankProperties () [0x00000] in <filename unknown>:0 
+  at UpgradeManagerScreens.SwitchPrimaryWeapon (System.String newName) [0x00000] in <filename unknown>:0 
+  at UpgradeManagerScreens.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Profile Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Video Settings Changed, setting new data ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Profile Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Options Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Options Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Profile Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Video Settings Changed, setting new data ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Options Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.227705 ms
+Multiple NetworkManagers detected in the scene. Only one NetworkManager can exist at a time. The duplicate NetworkManager will not be used.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 105 unused Assets to reduce memory usage. Loaded Objects now: 3013.
+Total: 3.560159 ms (FindLiveObjects: 0.217768 ms CreateObjectMapping: 0.209289 ms MarkObjects: 2.212939 ms  DeleteObjects: 0.918376 ms)
+
+Server Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Sending LevelData to 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at ShellHUD.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+WARNING: Shader Unsupported: 'HeatDistort' - All passes removed
+Unknown object Barrier wall prefab hit by MineExplosion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unknown object Barrier wall prefab hit by MineExplosion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unknown object Barrier wall prefab hit by MineExplosion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unknown object Barrier wall prefab hit by MineExplosion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unknown object Barrier wall prefab hit by MineExplosion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unknown object Barrier wall prefab hit by MineExplosion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Options Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.886326 ms
+Multiple NetworkManagers detected in the scene. Only one NetworkManager can exist at a time. The duplicate NetworkManager will not be used.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 498 unused Assets to reduce memory usage. Loaded Objects now: 3921.
+Total: 3.686893 ms (FindLiveObjects: 0.220892 ms CreateObjectMapping: 0.156632 ms MarkObjects: 1.531966 ms  DeleteObjects: 1.776955 ms)
+
+Profile Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Options Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Options Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Profile Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.552939 ms
+Multiple NetworkManagers detected in the scene. Only one NetworkManager can exist at a time. The duplicate NetworkManager will not be used.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 136 unused Assets to reduce memory usage. Loaded Objects now: 4043.
+Total: 2.580646 ms (FindLiveObjects: 0.214644 ms CreateObjectMapping: 0.167788 ms MarkObjects: 1.577483 ms  DeleteObjects: 0.620283 ms)
+
+Server Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Sending LevelData to 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Options Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.836872 ms
+Multiple NetworkManagers detected in the scene. Only one NetworkManager can exist at a time. The duplicate NetworkManager will not be used.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 686 unused Assets to reduce memory usage. Loaded Objects now: 4075.
+Total: 5.897155 ms (FindLiveObjects: 0.372170 ms CreateObjectMapping: 0.336024 ms MarkObjects: 2.851965 ms  DeleteObjects: 2.335657 ms)
+
+Profile Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Profile Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Options Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+

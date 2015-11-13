@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: 1de50860727ece94491f24c0717c13c8
+labels:
+- Cougar
+- 4x4
+- V-Hull
+- Armor
+- Military
+- Ve
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    4300000: body_1
+    4300002: driver_door_1
+    4300004: driver_side_window_1
+    4300006: spare01_1
+    4300008: front_driver_wheel_1
+    4300010: back_driver_wheel_1
+    4300012: turret_1
+    4300014: m240_1
+    4300016: mount_1
+    4300018: turret_window06_1
+    4300020: turret_window05_1
+    4300022: turret_window03_1
+    4300024: turret_window02_1
+    4300026: turret_window_03_1
+    4300028: turret_window_2_1
+    4300030: turret_window1_1
+    4300032: turret_window04_1
+    4300034: spare_1
+    4300036: front_passenger_wheel_1
+    4300038: back_passenger_wheel_1
+    4300040: interior_1
+    4300042: passenger_door_1
+    4300044: passenger_side_window01_1
+    4300046: passenger_side_back_window_1
+    4300048: driver_side_back_window_1
+    4300050: driver_back_door_1
+    4300052: passenger_side_rear_window02_1
+    4300054: passenger_back_door_1
+    4300056: passenger_side_rear_window01_1
+    4300058: windshield_1
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
