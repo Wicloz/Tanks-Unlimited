@@ -1,0 +1,14 @@
+- Fire shell
+- Shell bouncing
+- Shell moving ?
+- Shell exploding
+
+- Lay mine
+- Mine detonating
+- Mine explosion
+
+- Tank moving
+- Turret turning
+
+- Tank exploding
+- Obstacle destruction

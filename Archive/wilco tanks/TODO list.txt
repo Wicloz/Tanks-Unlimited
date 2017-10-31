@@ -1,0 +1,67 @@
+TODO code:
+
+- Better enemy movement in infini mode
+
+- Improved first person recoil and minimap
+
+- Find a solution for the debris of the destructable objects slowing tanks down
+
+- Explosion in the righter triangle in infinimode
+
+- Make one time purchase upgrades
+
+
+
+TODO menu's:
+
+- Textures for menu buttons
+
+- Waiting for host screens
+
+- Menu background
+
+- Find tank hangar
+
+- Better saves menu
+
+- Improve tank upgrade menu
+
+- Make game over and stage complete GUI
+
+
+
+TODO graphics:
+
+- Sound for driving
+
+- Sound for turning turret
+
+- Better graphics fot capture point
+
+- Better shell particles
+
+- Tank wrecks	// Hermes we hebben hiervoor ook models nodig
+
+- Better explosions + sounds
+
+- Better background noises
+
+- Loading screens
+
+- More and better obstacles
+
+
+
+TODO for multiplayer:
+
+- Turret serialising
+
+
+
+Intended features for later:
+
+- Challenges (even more can be made after the release of the game)
+
+- Multiplayer game modes
+
+- Kickstarter and steam (need game info and videos)

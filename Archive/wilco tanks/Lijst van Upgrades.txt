@@ -1,0 +1,19 @@
+Tank:
+- Several levels of speed  -----> wheels anders (texture)
+- Several levels of rotation speed ------> wheels langer/korter (model)
+- Super upgrade that gives the tank a layer of thick plating as a separate model, which can absorb one bullet but is destroyed in the process. This effectively gives you an extra life. -----> tijdelijke armour (model)
+
+Turret:
+- Rotation speed   -----------> turret anders (model)
+- Reload speed -----------> aanhangsel aan turret (model)
+- Larger clip -------> aanhangsel aan turret of body (model)
+
+Shells:
+- Movement Speed  --------> barrel langer/korter (model)
+- Amount of bounces  ----------> missile anders (model+texture)
+- Super upgrade that removes all bounces but makes the shell really fast (langere reload time?)  ----------> missile anders (model+texture)
+
+Mines:
+- Standard Mine
+- A mine that only destroys shells ----> model/texture
+- EMP mine?
